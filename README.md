@@ -1,5 +1,11 @@
 # Análise de sentimentos com os roteiros de Rick and Morty
 
+      ps: add hoje (22/10/2026) um notebook do Google Colab no qual eu testei o Laya. `Laya` é um modelo de decisão com pesos abertos que transforma textos e perguntas estruturadas em decisões e probabilidades, em vez de gerar texto token por token. Ele pode ser usado em tarefas como classificação, roteamento e tomada de decisões estruturadas. Tenho estudado uma linha mais técnica sobre LLMs e acredito que a Laya pode se conectar a esse projeto de 'Analise de Sentimentos'.
+      
+      Github: https://github.com/NandhaKishorM/laya
+
+-----------------------------------------------------------------------------------
+
 Comecei este estudo no Kaggle para explorar o vocabulário dos diálogos de Rick and Morty com três léxicos: AFINN, Bing e NRC. Ao preparar o case para o **Portfolio Night 2026, em São Paulo**, retomei essa exploração para comunicar melhor o método, os resultados e seus limites.
 
 Este repositório preserva o estudo original e registra essa evolução. Os notebooks usam o mesmo corpus, com objetivos diferentes: exploração inicial e apresentação revisada do case.
