@@ -1,6 +1,6 @@
 # Análise de sentimentos com os roteiros de Rick and Morty
 
-      ps: add hoje (22/10/2026) um notebook do Google Colab no qual eu testei o Laya. `Laya` é um modelo de decisão com pesos abertos que transforma textos e perguntas estruturadas em decisões e probabilidades, em vez de gerar texto token por token. Ele pode ser usado em tarefas como classificação, roteamento e tomada de decisões estruturadas. Tenho estudado uma linha mais técnica sobre LLMs e acredito que a Laya pode se conectar a esse projeto de 'Analise de Sentimentos'.
+ ps: add hoje (22/10/2026) um notebook do Google Colab no qual eu testei o Laya. `Laya` é um modelo de decisão com pesos abertos que transforma textos e perguntas estruturadas em decisões e probabilidades, em vez de gerar texto token por token. Ele pode ser usado em tarefas como classificação, roteamento e tomada de decisões estruturadas. Tenho estudado uma linha mais técnica sobre LLMs e acredito que a Laya pode se conectar a esse projeto de 'Analise de Sentimentos'.
       
       Github: https://github.com/NandhaKishorM/laya
 
