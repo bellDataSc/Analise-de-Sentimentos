@@ -16,7 +16,7 @@ Este repositório preserva o estudo original e registra essa evolução. Os note
 |---|---|
 | [Análise_de_Sentimentos.ipynb](Análise_de_Sentimentos.ipynb) | Exploração original, preservada como início do estudo. |
 | [Portfolio_Night_2026.ipynb](Portfolio_Night_2026.ipynb) | Atualização do case para o Portfolio Night, com código autônomo, análise revisada e resultados no próprio notebook. |
-| [InferenciaLaya.ipynb](InferenciaLaya.ipynb) | Primeiro teste do Laya em português (sentimento, categoria de atendimento e significado), com as probabilidades do run salvas em `resultados/`. |
+| [InferenciaLaya.ipynb](InferenciaLaya.ipynb) | Primeiro teste do Laya em português (significado e sentimento), com as probabilidades do run salvas em `resultados/`. |
 
 ## O que evoluiu para o Portfolio Night
 
