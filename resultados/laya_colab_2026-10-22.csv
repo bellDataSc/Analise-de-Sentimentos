@@ -1,0 +1,91 @@
+teste,caso,texto,texto_b,esperado,opcao,probabilidade
+sentimento,1,"Adorei o atendimento, foram muito atenciosos.",,positivo,positivo,0.4481
+sentimento,1,"Adorei o atendimento, foram muito atenciosos.",,positivo,neutro,0.5413
+sentimento,1,"Adorei o atendimento, foram muito atenciosos.",,positivo,negativo,0.0107
+sentimento,2,O produto chegou antes do prazo e funciona perfeitamente.,,positivo,positivo,0.9484
+sentimento,2,O produto chegou antes do prazo e funciona perfeitamente.,,positivo,neutro,0.0483
+sentimento,2,O produto chegou antes do prazo e funciona perfeitamente.,,positivo,negativo,0.0033
+sentimento,3,Estou muito satisfeita com a qualidade do serviço.,,positivo,positivo,0.9956
+sentimento,3,Estou muito satisfeita com a qualidade do serviço.,,positivo,neutro,0.0042
+sentimento,3,Estou muito satisfeita com a qualidade do serviço.,,positivo,negativo,0.0002
+sentimento,4,"A experiência foi excelente, voltaria a comprar.",,positivo,positivo,0.8392
+sentimento,4,"A experiência foi excelente, voltaria a comprar.",,positivo,neutro,0.1435
+sentimento,4,"A experiência foi excelente, voltaria a comprar.",,positivo,negativo,0.0173
+sentimento,5,"O produto chegou, mas ainda não tive tempo de testá-lo.",,neutro,positivo,0.0845
+sentimento,5,"O produto chegou, mas ainda não tive tempo de testá-lo.",,neutro,neutro,0.4276
+sentimento,5,"O produto chegou, mas ainda não tive tempo de testá-lo.",,neutro,negativo,0.4879
+sentimento,6,A entrega está prevista para amanhã.,,neutro,positivo,0.0832
+sentimento,6,A entrega está prevista para amanhã.,,neutro,neutro,0.792
+sentimento,6,A entrega está prevista para amanhã.,,neutro,negativo,0.1248
+sentimento,7,O aplicativo foi atualizado ontem.,,neutro,positivo,0.1428
+sentimento,7,O aplicativo foi atualizado ontem.,,neutro,neutro,0.2746
+sentimento,7,O aplicativo foi atualizado ontem.,,neutro,negativo,0.5826
+sentimento,8,O atendimento foi péssimo e demoraram horas para responder.,,negativo,positivo,0.0008
+sentimento,8,O atendimento foi péssimo e demoraram horas para responder.,,negativo,neutro,0.0043
+sentimento,8,O atendimento foi péssimo e demoraram horas para responder.,,negativo,negativo,0.9948
+sentimento,9,Estou muito decepcionada com a qualidade do produto.,,negativo,positivo,0.0003
+sentimento,9,Estou muito decepcionada com a qualidade do produto.,,negativo,neutro,0.0013
+sentimento,9,Estou muito decepcionada com a qualidade do produto.,,negativo,negativo,0.9985
+sentimento,10,O pedido chegou quebrado e ninguém resolveu o problema.,,negativo,positivo,0.025
+sentimento,10,O pedido chegou quebrado e ninguém resolveu o problema.,,negativo,neutro,0.0408
+sentimento,10,O pedido chegou quebrado e ninguém resolveu o problema.,,negativo,negativo,0.9342
+categoria,1,Meu cartão foi cobrado duas vezes pela mesma compra.,,pagamento,pagamento,0.9239
+categoria,1,Meu cartão foi cobrado duas vezes pela mesma compra.,,pagamento,conta,0.0392
+categoria,1,Meu cartão foi cobrado duas vezes pela mesma compra.,,pagamento,tecnico,0.0125
+categoria,1,Meu cartão foi cobrado duas vezes pela mesma compra.,,pagamento,entrega,0.0143
+categoria,1,Meu cartão foi cobrado duas vezes pela mesma compra.,,pagamento,cancelamento,0.0102
+categoria,2,Gostaria de solicitar o reembolso da minha última cobrança.,,pagamento,pagamento,0.6406
+categoria,2,Gostaria de solicitar o reembolso da minha última cobrança.,,pagamento,conta,0.0002
+categoria,2,Gostaria de solicitar o reembolso da minha última cobrança.,,pagamento,tecnico,0.0004
+categoria,2,Gostaria de solicitar o reembolso da minha última cobrança.,,pagamento,entrega,0.0001
+categoria,2,Gostaria de solicitar o reembolso da minha última cobrança.,,pagamento,cancelamento,0.3587
+categoria,3,Não consigo entrar na minha conta porque esqueci minha senha.,,conta,pagamento,0.0012
+categoria,3,Não consigo entrar na minha conta porque esqueci minha senha.,,conta,conta,0.939
+categoria,3,Não consigo entrar na minha conta porque esqueci minha senha.,,conta,tecnico,0.0533
+categoria,3,Não consigo entrar na minha conta porque esqueci minha senha.,,conta,entrega,0.0011
+categoria,3,Não consigo entrar na minha conta porque esqueci minha senha.,,conta,cancelamento,0.0054
+categoria,4,Como posso alterar o endereço de e-mail cadastrado?,,conta,pagamento,0.0175
+categoria,4,Como posso alterar o endereço de e-mail cadastrado?,,conta,conta,0.2378
+categoria,4,Como posso alterar o endereço de e-mail cadastrado?,,conta,tecnico,0.3481
+categoria,4,Como posso alterar o endereço de e-mail cadastrado?,,conta,entrega,0.026
+categoria,4,Como posso alterar o endereço de e-mail cadastrado?,,conta,cancelamento,0.3706
+categoria,5,O aplicativo fecha sozinho sempre que tento abrir.,,tecnico,pagamento,0.0048
+categoria,5,O aplicativo fecha sozinho sempre que tento abrir.,,tecnico,conta,0.0082
+categoria,5,O aplicativo fecha sozinho sempre que tento abrir.,,tecnico,tecnico,0.9726
+categoria,5,O aplicativo fecha sozinho sempre que tento abrir.,,tecnico,entrega,0.0074
+categoria,5,O aplicativo fecha sozinho sempre que tento abrir.,,tecnico,cancelamento,0.0071
+categoria,6,Estou recebendo uma mensagem de erro ao tentar fazer o pagamento.,,tecnico,pagamento,0.9995
+categoria,6,Estou recebendo uma mensagem de erro ao tentar fazer o pagamento.,,tecnico,conta,0.0
+categoria,6,Estou recebendo uma mensagem de erro ao tentar fazer o pagamento.,,tecnico,tecnico,0.0004
+categoria,6,Estou recebendo uma mensagem de erro ao tentar fazer o pagamento.,,tecnico,entrega,0.0
+categoria,6,Estou recebendo uma mensagem de erro ao tentar fazer o pagamento.,,tecnico,cancelamento,0.0
+categoria,7,Meu pedido ainda não chegou. Vocês podem verificar o status da entrega?,,entrega,pagamento,0.0
+categoria,7,Meu pedido ainda não chegou. Vocês podem verificar o status da entrega?,,entrega,conta,0.0
+categoria,7,Meu pedido ainda não chegou. Vocês podem verificar o status da entrega?,,entrega,tecnico,0.0001
+categoria,7,Meu pedido ainda não chegou. Vocês podem verificar o status da entrega?,,entrega,entrega,0.9999
+categoria,7,Meu pedido ainda não chegou. Vocês podem verificar o status da entrega?,,entrega,cancelamento,0.0
+categoria,8,Gostaria de saber quando minha encomenda será entregue.,,entrega,pagamento,0.0
+categoria,8,Gostaria de saber quando minha encomenda será entregue.,,entrega,conta,0.0
+categoria,8,Gostaria de saber quando minha encomenda será entregue.,,entrega,tecnico,0.0001
+categoria,8,Gostaria de saber quando minha encomenda será entregue.,,entrega,entrega,0.9998
+categoria,8,Gostaria de saber quando minha encomenda será entregue.,,entrega,cancelamento,0.0
+categoria,9,Quero cancelar minha assinatura antes da próxima cobrança.,,cancelamento,pagamento,0.0
+categoria,9,Quero cancelar minha assinatura antes da próxima cobrança.,,cancelamento,conta,0.0
+categoria,9,Quero cancelar minha assinatura antes da próxima cobrança.,,cancelamento,tecnico,0.0
+categoria,9,Quero cancelar minha assinatura antes da próxima cobrança.,,cancelamento,entrega,0.0
+categoria,9,Quero cancelar minha assinatura antes da próxima cobrança.,,cancelamento,cancelamento,1.0
+categoria,10,Não quero mais utilizar o serviço e gostaria de encerrar minha conta.,,cancelamento,pagamento,0.0
+categoria,10,Não quero mais utilizar o serviço e gostaria de encerrar minha conta.,,cancelamento,conta,0.0001
+categoria,10,Não quero mais utilizar o serviço e gostaria de encerrar minha conta.,,cancelamento,tecnico,0.0002
+categoria,10,Não quero mais utilizar o serviço e gostaria de encerrar minha conta.,,cancelamento,entrega,0.0
+categoria,10,Não quero mais utilizar o serviço e gostaria de encerrar minha conta.,,cancelamento,cancelamento,0.9997
+similaridade,1,O paciente está com febre.,O paciente apresenta temperatura corporal elevada.,alta,sim,0.9344
+similaridade,2,O médico prescreveu antibióticos para o paciente.,O paciente recebeu uma prescrição de antibióticos.,alta,sim,0.9963
+similaridade,3,A consulta foi cancelada.,A consulta não acontecerá conforme planejado.,alta,sim,0.2895
+similaridade,4,O paciente está com febre.,O paciente está com dor de cabeça.,baixa,sim,0.8881
+similaridade,5,O paciente recebeu antibióticos.,O paciente foi tratado por uma infecção.,média,sim,0.8525
+similaridade,6,O hospital realizou uma cirurgia.,O paciente passou por um procedimento médico.,média,sim,0.9951
+similaridade,7,O paciente está com febre.,O paciente não apresenta febre.,baixa,sim,0.0295
+similaridade,8,O paciente recebeu antibióticos.,O paciente recebeu analgésicos.,baixa,sim,0.9525
+similaridade,9,O paciente recebeu alta do hospital.,O paciente foi internado no hospital.,baixa,sim,0.3669
+similaridade,10,O médico solicitou um exame de sangue.,O paciente comprou um computador novo.,baixa,sim,0.1287

@@ -1,8 +1,8 @@
 # Análise de sentimentos com os roteiros de Rick and Morty
 
- ps: add hoje (22/10/2026) um notebook do Google Colab no qual eu testei o Laya. `Laya` é um modelo de decisão com pesos abertos que transforma textos e perguntas estruturadas em decisões e probabilidades, em vez de gerar texto token por token. Ele pode ser usado em tarefas como classificação, roteamento e tomada de decisões estruturadas. Tenho estudado uma linha mais técnica sobre LLMs e acredito que a Laya pode se conectar a esse projeto de 'Analise de Sentimentos'.
-      
-      Github: https://github.com/NandhaKishorM/laya
+ps: add hoje (22/10/2026) um notebook do Google Colab no qual eu testei o Laya. `Laya` é um modelo de decisão com pesos abertos que transforma textos e perguntas estruturadas em decisões e probabilidades, em vez de gerar texto token por token. Ele pode ser usado em tarefas como classificação, roteamento e tomada de decisões estruturadas. Tenho estudado uma linha mais técnica sobre LLMs e acredito que a Laya pode se conectar a esse projeto de 'Analise de Sentimentos'.
+
+Github: https://github.com/NandhaKishorM/laya
 
 -----------------------------------------------------------------------------------
 
@@ -16,6 +16,7 @@ Este repositório preserva o estudo original e registra essa evolução. Os note
 |---|---|
 | [Análise_de_Sentimentos.ipynb](Análise_de_Sentimentos.ipynb) | Exploração original, preservada como início do estudo. |
 | [Portfolio_Night_2026.ipynb](Portfolio_Night_2026.ipynb) | Atualização do case para o Portfolio Night, com código autônomo, análise revisada e resultados no próprio notebook. |
+| [InferenciaLaya.ipynb](InferenciaLaya.ipynb) | Primeiro teste do Laya em português (sentimento, categoria de atendimento e significado), com as probabilidades do run salvas em `resultados/`. |
 
 ## O que evoluiu para o Portfolio Night
 
